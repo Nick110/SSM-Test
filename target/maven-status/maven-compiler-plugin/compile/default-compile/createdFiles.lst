@@ -1,0 +1,6 @@
+com\ssm\service\UserService.class
+com\ssm\service\UserServiceImpl.class
+com\ssm\controller\UserController.class
+com\ssm\dao\UserDao.class
+com\ssm\entity\User.class
+com\ssm\entity\Equipment.class

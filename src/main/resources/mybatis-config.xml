@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <!--为com.xero.entity.User设置别名 User 方便调用-->
+    <typeAliases>
+        <typeAlias alias="User" type="com.ssm.entity.User"/>
+    </typeAliases>
+
+</configuration>
+
+        <!--这是mybatis配置文件-->
